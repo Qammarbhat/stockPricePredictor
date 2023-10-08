@@ -4,15 +4,6 @@
 
 The Stock Price Predictor is a web application that predicts future stock prices based on historical data. It utilizes the OpenAI GPT-3 language model and Streamlit for the user interface.
 
-## Table of Contents
-
-- [Demo](#demo)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
