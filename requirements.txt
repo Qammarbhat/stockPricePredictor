@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+langchain
+python-dotenv
+scikit-learn
+openai
+tabulate
