@@ -8,8 +8,6 @@ load_dotenv()
 
 openai_api_key = os.environ.get("OPENAI_API_KEY")
 
-# Retrieve the API key from the environment variable
-
 
 train_data = "example_data.csv"
 
